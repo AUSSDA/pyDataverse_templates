@@ -1,0 +1,26 @@
+dataset_id;dataverse_id;license;termsOfAccess;termsOfUse;otherId;title;subtitle;alternativeTitle;seriesName;notesText;author;dsDescription;subject;keywordValue;topicClassification;language;grantNumber;dateOfCollection;kindOfData;dataSources;accessToSources;alternativeURL;characteristicOfSources;dateOfDeposit;depositor;distributionDate;otherReferences;productionDate;productionPlace;relatedDatasets;relatedMaterial;datasetContact;distributor;producer;publication;software;timePeriodCovered;geographicUnit;geographicBoundingBox;geographicCoverage;actionsToMinimizeLoss;cleaningOperations;collectionMode;collectorTraining;controlOperations;dataCollectionSituation;dataCollector;datasetLevelErrorNotes;deviationsFromSampleDesign;frequencyOfDataCollection;otherDataAppraisal;researchInstrument;responseRate;samplingErrorEstimates;samplingProcedure;unitOfAnalysis;universe;timeMethod;weighting
+Serial;numeric (dataset_id) or string (alias);string;string;string;"String
+JSON object [{otherIdAgency: VALUE, otherIdValue: VALUE}]";string;string;string;string;string;"String
+JSON object [{authorName: VALUE, authorAffiliation: VALUE, authorIdentifierScheme: VALUE, authorIdentifier: VALUE}]";"String
+JSON object [{dsDescriptionValue: VALUE, dsDescriptionDate: VALUE}]";string;"String,
+JSON object [{keywordValue: VALUE, keywordVocabulary: VALUE, keywordVocabularyURI: VALUE}]";"String,
+JSON object [{topicClassValue: VALUE, topicClassVocab: VALUE}]";string;"String
+JSON object [{grantNumberAgency: VALUE, grantNumverValue: VALUE}]";"String,
+JSON object [{dateOfCollectionStart: VALUE, dateOfCollectionEnd: VALUE}]
+DateOfCollectionStart & dateOfCollectionEnd → String, YYYY-MM-DD ";"string,
+JSON object [VALUE, VALUE]";string;string;"string; URL";string;"string; YYYY-MM-DD";string;"string; YYYY-MM-DD";"string,
+JSON object [VALUE, VALUE]";"string; YYYY-MM-DD";string;"string,
+JSON object [VALUE, VALUE]";"string,
+JSON object [VALUE, VALUE]";"String,
+JSON object [{datasetContactName: VALUE, datasetContactAffiliation: VALUE, datasetContactEmail: VALUE}]";"String,
+JSON object [{distributorName: VALUE, distributorAffiliation: VALUE, distributorAbbreviation: VALUE, distributorURL: VALUE, distributorLogoURL: VALUE}]";"String,
+JSON object [{producerName: VALUE, producerAffiliation: VALUE, producerAbbreviation: VALUE, producerURL: VALUE, producerLogoURL: VALUE}]";"String,
+JSON object [{publicationCitation: VALUE, publicationIDType: VALUE, publicationIDNumber: VALUE, publicationURL: VALUE}]";"String,
+JSON object [{softwareName: VALUE, softwareVersion: VALUE}]";"String,
+JSON object [{timePeriodCoveredStart: VALUE, timePeriodCoveredStart: VALUE}]";"string,
+JSON object [VALUE, VALUE]";"String,
+JSON object [{westLongitude: VALUE, eastLongitude: VALUE, northLongitude: VALUE, southLongitude: VALUE}]";"String,
+JSON object [{country: VALUE, state: VALUE, city: VALUE, otherGeographicCoverage: VALUE}]";string;string;string;string;string;string;string;string;string;string;string;string;string;string;string;"string,
+JSON object [VALUE, VALUE]";"string,
+JSON object [VALUE, VALUE]";string;string
+aussda;aussda;dataverse;dataverse;dataverse;dataverse.citation;dataverse.citation;dataverse.citation;dataverse.citation;dataverse.citation;dataverse.citation;dataverse.citation;dataverse.citation;dataverse.citation;dataverse.citation;dataverse.citation;dataverse.citation;dataverse.citation;dataverse.citation;dataverse.citation;dataverse.citation;dataverse.citation;dataverse.citation;dataverse.citation;dataverse.citation;dataverse.citation;dataverse.citation;dataverse.citation;dataverse.citation;dataverse.citation;dataverse.citation;dataverse.citation;dataverse.citation;dataverse.citation;dataverse.citation;dataverse.citation;dataverse.citation;dataverse.citation;dataverse.geospatial;dataverse.geospatial;dataverse.geospatial;dataverse.socialscience;dataverse.socialscience;dataverse.socialscience;dataverse.socialscience;dataverse.socialscience;dataverse.socialscience;dataverse.socialscience;dataverse.socialscience;dataverse.socialscience;dataverse.socialscience;dataverse.socialscience;dataverse.socialscience;dataverse.socialscience;dataverse.socialscience;dataverse.socialscience;dataverse.socialscience;dataverse.socialscience;dataverse.socialscience;dataverse.socialscience

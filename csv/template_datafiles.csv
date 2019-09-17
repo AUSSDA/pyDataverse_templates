@@ -1,0 +1,4 @@
+description;categories;restrict;title;directoryLabel
+string;"String,
+JSON object [CAT1, CAT2]";boolean;string;string
+dataverse;dataverse;dataverse;dataverse;dataverse
