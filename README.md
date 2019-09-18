@@ -24,8 +24,22 @@ Rows:
 Columns:
 * The templates include columns for each Dataverse API metadata attribute.
 
-**Dataverses**
+**Dataverses Template**
 
-**Datasets**
+**Datasets Template**
 
-**Datafiles**
+**Datafiles Template**
+
+### Examples
+
+**Dataverses Example**
+
+Data taken from [dataverse_full.json](https://github.com/AUSSDA/pyDataverse/blob/master/tests/data/dataverse_full.json).
+
+**Datasets Example**
+
+Data taken from [Native API documentation](http://guides.dataverse.org/en/latest/api/native-api.html).
+
+**Datafiles Example**
+
+Data taken from [dataset_full.json](https://github.com/AUSSDA/pyDataverse/blob/master/tests/data/dataset_full.json).
