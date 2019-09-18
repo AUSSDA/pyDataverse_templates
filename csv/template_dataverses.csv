@@ -1,4 +1,4 @@
 dataverse_id;affiliation;alias;dataverseContacts;dataverseType;description;name
 numeric (dataset_id) or string (alias);string;string;"String,
-JSON object [{contactEmail: VALUE}]";string;string;string
+JSON object [{""contactEmail"": ""VALUE""}]";string;string;string
 aussda;dataverse;dataverse;dataverse;dataverse;dataverse;dataverse

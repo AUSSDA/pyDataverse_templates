@@ -1,4 +1,4 @@
-description;categories;restrict;title;directoryLabel
-string;"String,
-JSON object [CAT1, CAT2]";boolean;string;string
-dataverse;dataverse;dataverse;dataverse;dataverse
+datafile_id;dataset_id;description;categories;restrict;title;directoryLabel
+serial;numeric;string;"String,
+JSON object [""VALUE"", ""VALUE""]";boolean;string;string
+aussda;aussda;dataverse;dataverse;dataverse;dataverse;dataverse

@@ -1,0 +1,2 @@
+dataverse_id;affiliation;alias;dataverseContacts;dataverseType;description;name
+1;Scientific Research University;science;[{contactEmail: pi@example.edu}, {contactEmail: }]student@ex ample.edu;LABORATORY;We do all the science.;Scientific Research
