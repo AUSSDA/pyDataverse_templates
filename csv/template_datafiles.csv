@@ -1,4 +1,4 @@
-datafile_id;dataset_id;filename;description;categories;restrict;title;directoryLabel
+aussda_datafile_id;aussda_dataset_id;aussda_filename;description;categories;restrict;title;directoryLabel
 serial;numeric;string;string;"String,
 JSON object [""VALUE"", ""VALUE""]";boolean;string;string
 aussda;aussda;aussda;dataverse;dataverse;dataverse;dataverse;dataverse

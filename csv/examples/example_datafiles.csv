@@ -1,2 +1,2 @@
-dataset_id;filename;description;categories;restrict;title;directoryLabel
-1;01035_en_q.pdf;My description bbb.;"[""Data""]";FALSE;Text Report;data/subdir1
+aussda_datafile_id;aussda_dataset_id;aussda_filename;description;categories;restrict;title;directoryLabel
+1;1;01035_en_q.pdf;My description bbb.;"[""Data""]";FALSE;Text Report;data/subdir1
