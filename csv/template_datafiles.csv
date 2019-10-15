@@ -1,4 +1,5 @@
 aussda_datafile_id;aussda_dataset_id;aussda_filename;description;categories;restrict;title;directoryLabel
 serial;numeric;string;string;"String,
-JSON object [""VALUE"", ""VALUE""]";boolean;string;string
+JSON object [""VALUE"", ""VALUE""]
+Labels: ""Documentation"", ""Data"", ""Code""";boolean;string;string
 aussda;aussda;aussda;dataverse;dataverse;dataverse;dataverse;dataverse
