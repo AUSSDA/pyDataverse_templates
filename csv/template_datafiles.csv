@@ -1,5 +1,5 @@
-aussda_datafile_id;aussda_dataset_id;aussda_filename;description;categories;restrict;title;directoryLabel
+aussda_datafile_id;aussda_dataset_id;aussda_filename;description;categories;restrict;title;directoryLabel;alma_title;alma_pages;alma_year
 serial;numeric;string;string;"String,
 JSON object [""VALUE"", ""VALUE""]
-Labels: ""Documentation"", ""Data"", ""Code""";boolean;string;string
-aussda;aussda;aussda;dataverse;dataverse;dataverse;dataverse;dataverse
+Labels: ""Documentation"", ""Data"", ""Code""";boolean;string;string;string;??;??
+aussda;aussda;aussda;dataverse;dataverse;dataverse;dataverse;dataverse;alma;alma;alma
