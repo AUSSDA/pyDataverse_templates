@@ -1,2 +1,2 @@
-aussda_dataverse_id;dataverse;affiliation;alias;dataverseContacts;dataverseType;description;name
+dataverse.dataverse_id;dataverse.dataverse;dataverse.affiliation;dataverse.alias;dataverse.dataverseContacts;dataverse.dataverseType;dataverse.description;dataverse.name
 1;public;Scientific Research University;science;[{contactEmail: pi@example.edu}, {contactEmail: }]student@ex ample.edu;LABORATORY;We do all the science.;Scientific Research

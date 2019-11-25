@@ -1,2 +1,2 @@
-aussda_datafile_id;aussda_dataset_id;aussda_filename;description;categories;restrict;title;directoryLabel
-1;1;01035_en_q.pdf;My description bbb.;"[""Data""]";FALSE;Text Report;data/subdir1
+aussda.datafile_id;aussda.dataset_id;aussda.filename;dataverse.description;dataverse.categories;dataverse.restrict;dataverse.title;dataverse.directoryLabel;dataverse.datafile_id;alma.title;alma.pages;alma.year
+1;1;01035_en_q.pdf;My description bbb.;"[""Data""]";FALSE;Text Report;data/subdir1;634;Text Report;23;1997
