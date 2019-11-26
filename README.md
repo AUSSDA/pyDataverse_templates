@@ -48,4 +48,4 @@ Data taken from [dataset_full.json](https://github.com/AUSSDA/pyDataverse/blob/m
 
 **Datafiles Example**
 
-Data taken from [Native API documentation](http://guides.dataverse.org/en/latest/api/native-api.html).
+Data taken from [Native API documentation](http://guides.dataverse.org/en/latest/api/native-api.html#add-a-file-to-a-dataset).
