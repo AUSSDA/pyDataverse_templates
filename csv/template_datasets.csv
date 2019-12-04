@@ -9,7 +9,7 @@ JSON object [{""dsDescriptionValue"": ""VALUE"", ""dsDescriptionDate"": ""VALUE"
 JSON object [{""keywordValue"": ""VALUE"", ""keywordVocabulary"": ""VALUE"", ""keywordVocabularyURI"": ""VALUE""}]";"String,
 JSON object [{""topicClassValue"": ""VALUE"", ""topicClassVocab"": ""VALUE"", ""topicClassVocabURI"": ""VALUE""}]";"String, JSON object
 [""VALUE"", ""VALUE""]";"String
-JSON object [{""grantNumberAgency"": ""VALUE"", ""grantNumverValue"": ""VALUE""}]";"String,
+JSON object [{""grantNumberAgency"": ""VALUE"", ""grantNumberValue"": ""VALUE""}]";"String,
 JSON object [{""dateOfCollectionStart"": ""VALUE"", ""dateOfCollectionEnd"": ""VALUE""}]
 DateOfCollectionStart & dateOfCollectionEnd → String, YYYY-MM-DD ";"string,
 JSON object [""VALUE"", ""VALUE""]";"string,
