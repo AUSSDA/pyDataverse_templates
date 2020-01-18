@@ -1,4 +1,0 @@
-dataverse.dataverse_id;dataverse.dataverse;dataverse.affiliation;dataverse.alias;dataverse.dataverseContacts;dataverse.dataverseType;dataverse.description;dataverse.name
-numeric (dataset_id) or string (alias);string;string;string;"String,
-JSON object [{""contactEmail"": ""VALUE""}]";string;string;string
-aussda;dataverse;dataverse;dataverse;dataverse;dataverse;dataverse;dataverse
