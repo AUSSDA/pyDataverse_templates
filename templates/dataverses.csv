@@ -1,5 +1,6 @@
-dataverse.dataverse_id,dataverse.dataverse,dataverse.affiliation,dataverse.alias,dataverse.dataverseContacts,dataverse.dataverseType,dataverse.description,dataverse.name
-numeric (dataset_id) or string (alias),string,string,string,"String,
+organization.dataverse_id,dataverse.dataverse,dataverse.affiliation,dataverse.alias,dataverse.dataverseContacts,dataverse.dataverseType,dataverse.description,dataverse.name
+Uniqe identifier for the dataverse.,Parent dataverse.,Affiliation of Dataverse,Alias of Dataverse,Contact Email(s) of Dataverse.,Type of Dataverse.,Description text of Dataverse.,Name of Dataverse.
+numeric (dataverse_id) or string (alias),string,string,string,"String,
 JSON object [{""contactEmail"": ""VALUE""}]",string,string,string
-aussda,dataverse,dataverse,dataverse,dataverse,dataverse,dataverse,dataverse
+organization,dataverse,dataverse,dataverse,dataverse,dataverse,dataverse,dataverse
 1,public,Scientific Research University,science,"[{contactEmail: pi@example.edu}, {contactEmail: }]student@ex ample.edu",LABORATORY,We do all the science.,Scientific Research
