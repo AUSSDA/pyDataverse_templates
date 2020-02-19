@@ -1,4 +1,4 @@
-organization.datafile_id,organization.dataset_id,organization.filename,dataverse.description,dataverse.categories,dataverse.restrict,dataverse.title,dataverse.directoryLabel,dataverse.datafile_id,alma.title,alma.pages,alma.year
+org.datafile_id,org.dataset_id,org.filename,dv.description,dv.categories,dv.restrict,dv.title,dv.directoryLabel,dv.datafile_id,alma.title,alma.pages,alma.year
 serial,numeric,string,string,"String,
 JSON object [""VALUE"", ""VALUE""]
 Labels: ""Documentation"", ""Data"", ""Code""",boolean,string,string,string,string,string,string

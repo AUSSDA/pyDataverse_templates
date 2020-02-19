@@ -1,4 +1,4 @@
-organization.dataverse_id,dataverse.dataverse,dataverse.affiliation,dataverse.alias,dataverse.dataverseContacts,dataverse.dataverseType,dataverse.description,dataverse.name
+org.dataverse_id,dv.dataverse,dv.affiliation,dv.alias,dv.dataverseContacts,dv.dataverseType,dv.description,dv.name
 Uniqe identifier for the dataverse.,Parent dataverse.,Affiliation of Dataverse,Alias of Dataverse,Contact Email(s) of Dataverse.,Type of Dataverse.,Description text of Dataverse.,Name of Dataverse.
 numeric (dataverse_id) or string (alias),string,string,string,"String,
 JSON object [{""contactEmail"": ""VALUE""}]",string,string,string
