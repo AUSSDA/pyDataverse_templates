@@ -1,5 +1,6 @@
-org.datafile_id,org.dataset_id,org.filename,dv.description,dv.categories,dv.restrict,dv.title,dv.directoryLabel,dv.datafile_id,alma.title,alma.pages,alma.year
-serial,numeric,string,string,"String,
+org.datafile_id,org.dataset_id,org.filename,dv.datafile_id,dv.description,dv.categories,dv.restrict,dv.title,dv.directoryLabel,alma.title,alma.pages,alma.year
+Unique identifier for a Datafile from the organizational perspective.,Unique identifier for a Dataset from the organizational perspective. Relates to the column in datasets.csv.,Filename without path.,Datafile ID in Dataverse.,Description for the file,Categories for the file.,File restriction.,Title,"Directory, the file should be stored in.",Title for Alma.,Number of pages of work.,
+serial,numeric,string,string,string,"String,
 JSON object [""VALUE"", ""VALUE""]
-Labels: ""Documentation"", ""Data"", ""Code""",boolean,string,string,string,string,string,string
-1,1,01035_en_q.pdf,My description bbb.,"[""Data""]",FALSE,Text Report,data/subdir1,634,Text Report,23,1997
+Labels: ""Documentation"", ""Data"", ""Code""",boolean,string,string,string,string,string
+1,1,01035_en_q.pdf,634,My description bbb.,"[""Data""]",FALSE,Text Report,data/subdir1,Text Report,23,1997
