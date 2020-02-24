@@ -13,9 +13,9 @@ AUSSDA specific templates for [pyDataverse](https://github.com/AUSSDA/pyDatavers
 This template files offer a first starting-point to collect data for later imports via the Dataverse API. They contain some pre-defined attributes in the first row, which are the used ones from the Dataverse API and by AUSSDA internally. The attributes are described in the 2nd and 3rd row. Additional attributes can be added as needed.
 
 Format:
-* Seperator: `;`
+* Seperator: `,`
 * Encoding: `utf-8`
-* Seperator: `"`
+* Quotation: `"`
 
 Rows:
 * Header / First row: Here stands the attribute name for each column. Mostly, it's Dataverse API metadata or AUSSDA specific attribute names. But you can add or remove as you want, as you can read below.
